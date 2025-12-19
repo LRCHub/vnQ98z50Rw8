@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "astro",
+  "base_artist": "Blue Journey",
+  "createdAt": "2025-12-19T04:13:09.632766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Astro-Mancy",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/01_Astro-Mancy_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Astro Boy",
+      "artist": "Blonde Redhead",
+      "has_synced": false,
+      "path": "select/02_Astro_Boy_Blonde_Redhead.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Astro Boy",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/03_Astro_Boy_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Astro Zombies",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/04_Astro_Zombies_My_Chemical_Romance.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Astro Zombies",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/05_Astro_Zombies_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Astro Man",
+      "artist": "Jimi Hendrix",
+      "has_synced": true,
+      "path": "select/06_Astro_Man_Jimi_Hendrix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Astro Zombies",
+      "artist": "Misfits",
+      "has_synced": true,
+      "path": "select/07_Astro_Zombies_Misfits.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Astro",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/08_Astro_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Astro Robot contatto Ypsylon",
+      "artist": "Gli Ypsylon",
+      "has_synced": false,
+      "path": "select/09_Astro_Robot_contatto_Ypsylon_Gli_Ypsylon.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Astro Black",
+      "artist": "Quasimoto",
+      "has_synced": true,
+      "path": "select/10_Astro_Black_Quasimoto.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Astro Travellin",
+      "artist": "Quasimoto",
+      "has_synced": true,
+      "path": "select/11_Astro_Travellin_Quasimoto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keishas Song (Her Pain) (feat. Astro Bot)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/12_Keishas_Song_(Her_Pain)_(feat._Astro_Bot)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Astro",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/13_Astro_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Astro Man",
+      "artist": "The Jimi Hendrix Experience",
+      "has_synced": true,
+      "path": "select/14_Astro_Man_The_Jimi_Hendrix_Experience.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "astro",
+      "artist": "Blue Journey",
+      "has_synced": false,
+      "path": "select/pl_01_astro_Blue_Journey.txt"
+    }
+  ]
+}
